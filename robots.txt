@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /socialingineering_lab3/page1.html
+Disallow: /socialingineering_lab3/page2.html
