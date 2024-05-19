@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /page2.html
+Disallow: ./page2.html
